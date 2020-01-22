@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Simple WebRTC Messenger",
   "scripts": {
-    "build": "npm install",
+    "build": "npm install && node server.js",
     "start": "node server.js"
   },
   "keywords": [
